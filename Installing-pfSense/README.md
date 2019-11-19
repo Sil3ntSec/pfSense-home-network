@@ -3,8 +3,13 @@ Tools used:
 - Rufus-3.8 
 - pfSense-2.4.4
 #### Table of Contents
-- Downloading the image
-- <a class="btn btn-primary" href="https://github.com/Sil3ntSec/pfSense-home-network/tree/master/Installing-pfSense#creating-bootable-usb" role="button">Creating Bootable USB</a>
+- <a class="btn btn-primary" href="https://github.com/Sil3ntSec/pfSense-home-network/tree/master/Installing-pfSense#configuring-a-pfsense-bootable-usb" role="button">Configuring a pfSense Bootable USB</a>
+  - <a class="btn btn-primary" href="https://github.com/Sil3ntSec/pfSense-home-network/tree/master/Installing-pfSense#download-pfsense" role="button">Downloading the Image</a>
+  - <a class="btn btn-primary" href="https://github.com/Sil3ntSec/pfSense-home-network/tree/master/Installing-pfSense#creating-bootable-usb" role="button">Creating Bootable USB</a>
+    - <a class="btn btn-primary" href="https://github.com/Sil3ntSec/pfSense-home-network/tree/master/Installing-pfSense#image-requirements" role="button">Image Requirements</a>
+  - <a class="btn btn-primary" href="https://github.com/Sil3ntSec/pfSense-home-network/tree/master/Installing-pfSense#booting-off-of-a-usb" role="button">Booting off of a USB</a>
+  - <a class="btn btn-primary" href="https://github.com/Sil3ntSec/pfSense-home-network/tree/master/Installing-pfSense#performing-a-full-install-of-pfsense" role="button">Performing a Full install of pfSense</a>
+- <a class="btn btn-primary" href="https://github.com/Sil3ntSec/pfSense-home-network/tree/master/Installing-pfSense#configuring-pfsense" role="button">Configuring pfSense</a>
 
 ## Configuring a pfSense Bootable USB
 #### Download pfSense
