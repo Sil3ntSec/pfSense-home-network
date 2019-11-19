@@ -8,5 +8,5 @@ The pfSense image must be the memstick version, along with the .img.gz file type
 </p>
 Next, you will have to create a bootable USB drive with this pfSense image. I personally like Rufus. Use link: https://rufus.ie/
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Sil3ntSec/pfSense-home-network/blob/master/Images/pfSense1.PNG">
+  <img width="460" height="300" src="https://github.com/Sil3ntSec/pfSense-home-network/blob/master/Images/Rufus1.PNG">
 </p>
