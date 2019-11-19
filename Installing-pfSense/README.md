@@ -16,9 +16,8 @@ Use link: https://www.pfsense.org/download/
 - Mirror: Will default to closest server
 <p align="left">
   <img width="460" height="300" src="https://github.com/Sil3ntSec/pfSense-home-network/blob/master/Images/pfSense.PNG">
-</p>
-<div class="paragraph"><p> <br>
- <br></p></div>
+</p><br/>
+
  
 #### Creating Bootable USB
 Next, you will have to create a bootable USB drive with this pfSense image. I personally like Rufus. Use link: https://rufus.ie/. All of the settings can stay the same within Rufus, but you must specify the device being used and attach the pfSense memstick image
