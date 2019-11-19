@@ -13,8 +13,9 @@ Use link: https://www.pfsense.org/download/
 - Architecture: AMD64 (64-bit)
 - Installer: USB Memstick Installer 
 - Console: Serial (because you are using a USB device)
+- Mirror: Will default to closest server
 <p align="left">
-  <img width="460" height="300" src="https://github.com/Sil3ntSec/pfSense-home-network/blob/master/Images/pfSense1.PNG">
+  <img width="460" height="300" src="https://github.com/Sil3ntSec/pfSense-home-network/blob/master/Images/pfSense.PNG">
 </p>
 <div class="paragraph"><p> <br>
  <br></p></div>
