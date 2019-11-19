@@ -84,14 +84,27 @@ After the pfSense machine reboots, the machine will boot into the newly installe
 #### Configuring LAN Interface
 If you installed pfSense on an extra desktop that was laying around, you must make sure that the desktop has two ethernet ports. For my build, I installed an extra ethernet port using a PCIe slot within my motherboard, that wa $12. It doesn't matter which port your LAN or WAN is connected to. 
 ##### One by One steps:
-1. Assigning interfaces
-2. Configuring interfaces
+1. Assigning Interfaces
+2. Configuring Interfaces
 3. Configuring the LAN interface
-4. IPv4 address to LAN
+4. IPv4 address
 5. Subnet bit count
 6. IPv4 upstream gateway address
 7. IPv6 address
-8. DHCP on the LAN interface
+8. DHCP
 9. Revert to HTTP as the webConfigurator protocol
-10. Save the configurations for the LAN interface
+10. Save the configurations
+**Step 1: Assigning interfaces**
+**Step 2: Configuring interfaces**
+**Step 3: Configuring the LAN interface**
+**Step 4: IPv4 address**
+**Step 5: Subnet bit count**
+**Step 6: IPv4 upstream gateway address**
+**Step 7: IPv6 address**
+**Step 8: DHCP**
+**Step 9: Revert to HTTP as the webConfigurator protocol**
+**Step 10: Save the configurations**
+
+
+
 
