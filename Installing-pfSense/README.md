@@ -24,7 +24,7 @@ Use link: https://www.pfsense.org/download/
 </p><br/>
 
 #### Creating Bootable USB
-The downloaded image must be written to target media before it can be used We will have to write the installer ISO to a USB device. A tool that I personally like is Rufus. Use link: https://rufus.ie/. All of the settings can stay the same within Rufus, but you must specify the device being used and attach the pfSense memstick image.
+The downloaded image must be written to target media before it can be used We will have to write the installer ISO to a USB device. A tool that I personally like is Rufus. Use link: https://rufus.ie/. All of the settings can stay the same within Rufus, but you must specify the device being used and attach the pfSense memstick image under 'Boot Selection'.
 <p align="left">
   <img width="300" height="460" src="https://github.com/Sil3ntSec/pfSense-home-network/blob/master/Images/Rufus1.PNG">
 </p><br/>
