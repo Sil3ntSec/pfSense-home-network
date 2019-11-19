@@ -65,3 +65,6 @@ Now that pfSense is installed, the machine must reboot so that pfSense may start
 <p align="left">
   <img width="560" height="300" src="https://github.com/Sil3ntSec/pfSense-home-network/blob/master/Images/pfSense6.png">
 </p>
+Now it's time to configure the interfaces within your new pfSense machine!<br/>
+
+## Configuring pfSense
