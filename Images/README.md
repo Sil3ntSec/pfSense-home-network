@@ -1,1 +1,1 @@
-This folder includes images associated to this repository
+# This folder includes images associated to this repository
