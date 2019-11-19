@@ -10,6 +10,9 @@ Tools used:
   - <a class="btn btn-primary" href="https://github.com/Sil3ntSec/pfSense-home-network/tree/master/Installing-pfSense#booting-off-of-a-usb" role="button">Booting off of a USB</a>
   - <a class="btn btn-primary" href="https://github.com/Sil3ntSec/pfSense-home-network/tree/master/Installing-pfSense#performing-a-full-install-of-pfsense" role="button">Performing a Full install of pfSense</a>
 - <a class="btn btn-primary" href="https://github.com/Sil3ntSec/pfSense-home-network/tree/master/Installing-pfSense#configuring-pfsense" role="button">Configuring pfSense</a>
+  - <a class="btn btn-primary" href="https://github.com/Sil3ntSec/pfSense-home-network/tree/master/Installing-pfSense#configuring-lan-interface" role="button">Configuring LAN Interface</a>
+    - <a class="btn btn-primary" href="https://github.com/Sil3ntSec/pfSense-home-network/tree/master/Installing-pfSense#one-by-one-steps" role="button">One by One steps:</a>
+    
 
 ## Configuring a pfSense Bootable USB
 #### Download pfSense
