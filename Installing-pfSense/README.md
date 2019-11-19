@@ -4,7 +4,7 @@ Tools used:
 - pfSense-2.4.4
 #### Table of Contents
 - Downloading the image
-- Creating Bootable USB src="https://github.com/Sil3ntSec/pfSense-home-network/blob/master/Installing-pfSense/README.md#configuring-a-pfsense-bootable-usb"
+- <a class="btn btn-primary" href="https://github.com/Sil3ntSec/pfSense-home-network/tree/master/Installing-pfSense#creating-bootable-usb" role="button">Creating Bootable USB</a>
 
 ## Configuring a pfSense Bootable USB
 #### Download pfSense
